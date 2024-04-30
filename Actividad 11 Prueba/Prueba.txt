@@ -1,2 +1,4 @@
 jl: HOLA
 Carlos: Adios
+
+Carlos: modificacion ejercicio 12
