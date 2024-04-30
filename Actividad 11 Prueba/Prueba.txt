@@ -1,3 +1,8 @@
 jl: HOLA
 Carlos: Adios
+<<<<<<< HEAD
 jl: modificacion ejercicio 12
+=======
+
+Carlos: modificacion ejercicio 12
+>>>>>>> 4a2870fdb887b33aaad722a10f1ecce4311f4de7
